@@ -3,6 +3,7 @@
 # xLSTM
 Implementation of xLSTM in Pytorch from the paper: "xLSTM: Extended Long Short-Term Memory"
 
+This implementation is incomplete, please refer to the official implementation for the full code!
 
 
 
